@@ -1,0 +1,33 @@
+    1  git init
+    2  git clone https://github.com/alphanumeric0101/decodemtl.git
+    3  git status
+    4  git add student-directory/index.html
+    5  git add /student-directory/index.html
+    6  git add decodemtl/student-directory/index.html
+    7  git add /decodemtl/student-directory/index.html
+    8  git add src/student-directory/index.html
+    9  git add /src/student-directory/index.html
+   10  git add decodemtl/src/student-directory/index.html
+   11  git branch fix-email
+   12  git checkout -b fix-email
+   13  git status
+   14  git log -1
+   15  git log
+   16  git commit -m 'fixed e-mail'
+   17  git checkout -b new-teacher
+   18  git status
+   19  git checkout visual-changes
+   20  git show
+   21  git log
+   22  cd~
+   23  cd ~
+   24  git clone git@github.com:alphanumeric0101/command-line-workshop.git
+   25  git pull
+   26  git pull git@github.com:alphanumeric0101/command-line-workshop.git
+   27  cd ~
+   28  ls
+   29  cd command-line-workshop
+   30  ls
+   31  git checkout -b cmd-history
+   32  histroy > history.txt
+   33  history > history.txt

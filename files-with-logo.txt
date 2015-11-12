@@ -1,0 +1,13 @@
+../workspace/decodemtl/src/web-development-full-time/index.html:    <img class="application-form__logo" src="/assets/images/decodemtl-logo-black.png">
+../workspace/decodemtl/src/web-development-part-time/index.html:    <img class="application-form__logo" src="/assets/images/decodemtl-logo-black.png">
+../workspace/decodemtl/src/assets/scss/_application-form.scss:  &__logo {
+../workspace/decodemtl/src/assets/scss/_main-header.scss:  &__logo {
+../workspace/decodemtl/src/assets/scss/_main-header.scss:  &__logo-image {
+../workspace/decodemtl/src/assets/scss/_main-header.scss:    &__logo-image {
+../workspace/decodemtl/src/_layouts/default_fr.html:  <div class="main-header__logo">
+../workspace/decodemtl/src/_layouts/default_fr.html:      <a href="/fr"><img class="main-header__logo-image" src="/assets/images/decodemtl-logo-white.png"></a>
+../workspace/decodemtl/src/_layouts/default.html:  <div class="main-header__logo">
+../workspace/decodemtl/src/_layouts/default.html:      <a href="/"><img class="main-header__logo-image" src="/assets/images/decodemtl-logo-white.png"></a>
+../workspace/decodemtl/src/fr/web-development-full-time/index.html:    <img class="application-form__logo" src="/assets/images/decodemtl-logo-black.png">
+../workspace/decodemtl/src/fr/web-development-part-time/index.html:    <img class="application-form__logo" src="/assets/images/decodemtl-logo-black.png">
+Binary file ../workspace/decodemtl/.git/index matches
